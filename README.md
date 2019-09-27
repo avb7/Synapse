@@ -1,7 +1,5 @@
 # Synapse - Peer to Peer Websites 
 
-# README 
-
 # What is it? 
 Synapse is a peer-to-peer website hosting tool, useful for creating instant, lightweight and safe websites.
 
